@@ -5,8 +5,6 @@ This repository contains my coursework for **CSD 200 – Foundations of Software
 
 Although this course did not involve programming projects, it established many of the software engineering concepts that are used throughout the Software Development degree program. The assignments focused on planning, designing, documenting, and communicating software solutions before implementation.
 
----
-
 ## Repository Structure
 
 The repository is organized by module, with each folder containing the assignments, documentation, presentations, diagrams, and project artifacts completed during that portion of the course.
@@ -20,8 +18,6 @@ Final Project
 ```
 
 Each module contains the documents submitted for that week's assignments.
-
----
 
 ## Topics Covered
 
@@ -44,8 +40,6 @@ Throughout this course, I developed an understanding of many foundational softwa
 - Web accessibility concepts
 - Software project planning
 
----
-
 ## Major Projects
 
 Some of the larger assignments completed during this course include:
@@ -60,8 +54,6 @@ Some of the larger assignments completed during this course include:
 - Accessibility analysis
 - Final software project documentation
 
----
-
 ## Skills Developed
 
 This course strengthened many software engineering skills that continue to be used throughout my degree program, including:
@@ -75,8 +67,6 @@ This course strengthened many software engineering skills that continue to be us
 - Presentation development
 - Professional writing
 - Project organization
-
----
 
 ## Author
 
